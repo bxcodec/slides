@@ -7,7 +7,7 @@ type SeniorDeveloper struct {
 	SoftwareMentor
 }
 
-func (d *SeniorDeveloper) Code() {
+func (d SeniorDeveloper) Code() {
 	fmt.Println("I dont only code. I solve problems")
 }
 
