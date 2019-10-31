@@ -7,5 +7,5 @@ func main() {
 		composition.BusinessGuy{"life on Mars"},
 		composition.TechieGuy{"reusable rockets"},
 	}
-	composition.Pitch(&elonMusk)
+	composition.Pitch(elonMusk)
 }

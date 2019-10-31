@@ -8,7 +8,7 @@ type JuniorDeveloper struct {
 	Languages []string
 }
 
-func (d *JuniorDeveloper) Code() {
+func (d JuniorDeveloper) Code() {
 	langs := ""
 	for _, v := range d.Languages {
 		langs += v + ", "

@@ -6,7 +6,7 @@ type BusinessGuy struct {
 	BusinessIdea string
 }
 
-func (g *BusinessGuy) BizIdea() string {
+func (g BusinessGuy) BizIdea() string {
 	return g.BusinessIdea
 }
 
@@ -14,7 +14,7 @@ type TechieGuy struct {
 	SpecialTech string
 }
 
-func (g *TechieGuy) TechIdea() string {
+func (g TechieGuy) TechIdea() string {
 	return g.SpecialTech
 }
 
