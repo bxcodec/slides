@@ -44,7 +44,7 @@ medium.com/@imantumorang
 * Problems addressed by Go at Google
 - slow builds
 - uncontrolled dependencies
-- developers' opionions
+- developers' opinions
 - maintainability (readibility, documentation, etc)
 - costly updates
 - difficulty in writing automated tools
@@ -162,7 +162,7 @@ Exported vs Un-exported
 : As previously discussed, we shall all agree that Go is simple. Nonetheless, simplicity is a ridiculously powerful idea that can bring about substaintial benefits.
 
 * Go is simple
-- opionated => focus on things that matter
+- opinionated => focus on things that matter
 - straightforward, readable => easy to maintain, to onboard new hires
 .image images/gophercodereview.png
 
@@ -192,7 +192,7 @@ Exported vs Un-exported
 : Unlike Java, Python, or Javascript, Go programs don't need huge and complex infrastructure like the JVM or V8 Engine, saving us hundreds of MBs in RAM, which in turns cut down cost on cloud environments.
 : With the recent rises in microservices architecture where tons of Docker images have to be deployed. Imagine hundres of Node/Java images of 200MB because of the extra JVM, Node Engine compared to 20MB images with standalone Go binaries. The amount of data travelled over the network from the registry can only be measured in GB. As a result, Go applications can be deployed faster and more frequently, allowing important updates to reach production.
 
-* backend-engineer?
+* 
 .background images/keepcalmnusego.png
 
 : So fellow engineers, please make the switch. And if you are not yet convinced, let's dive right in some hands-on exercises in our workshop portion.
