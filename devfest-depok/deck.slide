@@ -1,5 +1,5 @@
 Go for Scalable Microservices
-Why and if you should learn Go?
+Why and When you should learn Go?
 Tags: golang, enterprise, beginner
 
 Iman Tumorang
@@ -44,6 +44,20 @@ medium.com/@imantumorang
 : Will it make a mark in the software world, adopted and used by the majority of
 : enterprises?
 
+* Go in tech Industry
+.background images/devfest_content.png
+*Product* *built* *with* *Go*
+
+- Kubernetes 
+- Docker 
+
+*Companies* *using* *Go*
+
+- Tokopedia
+- Gojek
+- Grab
+- Xendit
+- ...etc
 
 * Why Golang?
 .background images/devfest_content.png
@@ -132,6 +146,8 @@ Exported vs Un-exported
 
 * Is Go for you?
 .background images/devfest_content.png
+: Lalu muncul pertanyaan, is Go for you?
+: Is go the right programming language for you?
 
 * Mind Budget
 Anything that you cannot do instinctively consumes Mind Budget.
@@ -350,6 +366,13 @@ you can:
 
 See the complete list here:
 .link https://golang.org/doc/install/source#environment 
+
+* Takeaways
+- Use the right tools
+- Mind Budget is limited. Time is limited, learn things that important based on needs
+- Go is concurrent, good for high scale applications
+
+.background images/devfest_content.png
 
 * Discussion Time! 
 .background images/devfest_end.png
